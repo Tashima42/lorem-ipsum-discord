@@ -6,7 +6,7 @@ server()
 import discord from "./utils/discord.js"
 const client = discord()
 import parsers from "./utils/parsers.js"
-const prefix = process.env.PREFIX || "/lorem"
+const prefix = "/lorem"
 
 client.on('message', async (msg) => {
   if (msg.author.but) return
