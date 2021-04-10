@@ -27,6 +27,6 @@ export default new Discord.MessageEmbed()
     "Commands can't have spaces\n`❌ /lorem paragraphs = 10`\n`✔️ /lorem paragraphs=10`"
   )
   .addField(
-    'More',
+    'Examples',
     'https://github.com/Tashima42/lorem-ipsum-discord/blob/main/README.md'
   )
