@@ -1,0 +1,35 @@
+{
+  "name": "lorem-ipsum-discord",
+  "version": "1.0.0",
+  "description": "Lorem Ipsum generator for Discord!",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tashima42/lorem-ipsum-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "lorem",
+    "ipsum"
+  ],
+  "author": "@tashima42",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/Tashima42/lorem-ipsum-discord/issues"
+  },
+  "homepage": "https://github.com/Tashima42/lorem-ipsum-discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.1",
+    "lorem-ipsum": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
