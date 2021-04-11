@@ -1,4 +1,4 @@
-# lorem-ipsum-discord
+# Lorem Ipsum Discord Bot
 
 Lorem Ipsum generator for Discord!
 
@@ -101,7 +101,7 @@ Four paragraphs with a maximum of 4 and a minimum of 2 sentences and a maximum o
 
 ```
 Pedro Tashima:
-  > /lorem { sentencesPerParagraph: { max: 4, min: 2 }, wordsPerSentence: { max: 6, min: 3 } } paragraphs=2
+  > /lorem { sentencesPerParagraph: { max: 4, min: 2 }, wordsPerSentence: { max: 6, min: 3 } } paragraphs=4
 
 Lorem Ipsum Generator:
   > Non aute exercitation laboris do. Quis fugiat occaecat enim eu. Ut anim pariatur ullamco.
